@@ -7,5 +7,4 @@ Temas: tipos de dados, casting, operadores, String, Math, if/else, switch, while
     javac -encoding UTF-8 -d out *.java
     java -cp out Exercicio01
 
-## Autoria e ajuda externa
-(preencha conforme a regra do curso)
+
